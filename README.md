@@ -42,6 +42,9 @@ G40,high,yes,excellent,yes
 7) Explorer shows many options. In that click on ‘open file’ and select the arff file
 8) Click on edit button which shows buying table on weka.
 ### OUTPUT:
+![image](https://github.com/Evangelin-Ruth/WDM_EXP2/assets/94219798/35b29719-c3bf-4769-b6e4-5ddaab4adb2a)
+![image](https://github.com/Evangelin-Ruth/WDM_EXP2/assets/94219798/d7379d6a-bf66-4c3f-9e4a-e35ba3de62bb)
+![image](https://github.com/Evangelin-Ruth/WDM_EXP2/assets/94219798/381120ed-43a9-4cbe-939a-e41b192c680f)
 
 
 ### Procedure for Association Rules:
@@ -53,5 +56,11 @@ G40,high,yes,excellent,yes
 6) Click on Start button and output will be displayed on the right side of the window.
 
 ### OUTPUT:
+![image](https://github.com/Evangelin-Ruth/WDM_EXP2/assets/94219798/43a6895d-7685-40d6-816d-5a6c73f002c8)
+![image](https://github.com/Evangelin-Ruth/WDM_EXP2/assets/94219798/f2498454-a125-4458-93e4-c96e5fb3844d)
+![image](https://github.com/Evangelin-Ruth/WDM_EXP2/assets/94219798/7601647c-c19d-4766-a1d0-46491d682b5d)
 
 ### RESULT: 
+Thus association rules have been visualized for various datasets successfully.
+
+
