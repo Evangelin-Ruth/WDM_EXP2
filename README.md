@@ -44,6 +44,8 @@ G40,high,yes,excellent,yes
 ### OUTPUT:
 ![image](https://github.com/Evangelin-Ruth/WDM_EXP2/assets/94219798/35b29719-c3bf-4769-b6e4-5ddaab4adb2a)
 ![image](https://github.com/Evangelin-Ruth/WDM_EXP2/assets/94219798/d7379d6a-bf66-4c3f-9e4a-e35ba3de62bb)
+
+
 ![image](https://github.com/Evangelin-Ruth/WDM_EXP2/assets/94219798/381120ed-43a9-4cbe-939a-e41b192c680f)
 
 
